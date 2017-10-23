@@ -1,13 +1,25 @@
-# bulma-timeline
-Bulma's extension to display a timeline
-(find all my bulma's extensions [here](https://wikiki.github.io/bulma-extensions/overview))
+# Tooltip
 
-[![npm](https://img.shields.io/npm/v/bulma-timeline.svg)](https://www.npmjs.com/package/bulma-timeline)
-[![npm](https://img.shields.io/npm/dm/bulma-timeline.svg)](https://www.npmjs.com/package/bulma-timeline)
-[![Build Status](https://travis-ci.org/Wikiki/bulma-timeline.svg?branch=master)](https://travis-ci.org/Wikiki/bulma-timeline)
+Timeline component is based on [bulma-timeline](https://wikiki.github.io/bulma-extensions/timeline) for Vue Bulma.
 
 <img src="https://img4.hostingpics.net/pics/887099ScreenShot20170812at150229.png" width="50%">
 
-Documentation & Demo
+## Installation
+
+```
+$ npm install vue-bulma-timeline --save
+```
+
+
+## Examples
+
+Coming soon
+
+## Badges
+
+![](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ---
-You can find the Documentation and a demo [here](https://wikiki.github.io/bulma-extensions/timeline)
+
+> GitHub [@gcencic](https://github.com/gcencic) &nbsp;&middot;&nbsp;
+
